@@ -1,3 +1,9 @@
+<h1>
+!!Not the official Kalliope project!!
+Just a fork so I can tinker around and hopefully contribute some useful API's or other code : )
+</h1>
+
+
 <p align="center">
     <img src="docs/images/Kalliope_logo_large.png">
 </p>
@@ -10,10 +16,6 @@
 [![PyPI](https://img.shields.io/pypi/pyversions/kalliope.svg)](https://pypi.python.org/pypi/kalliope/)
 [![Beerpay](https://beerpay.io/kalliope-project/kalliope/badge.svg?style=flat)](https://beerpay.io/kalliope-project/kalliope)
 
-<h1>
-!!Not the official Kalliope project!!
-Just a fork so I can tinker around and hopefully contribute some useful API's or other code : )
-</h1>
 
 Kalliope is a framework that will help you to create your own personal assistant.
 
